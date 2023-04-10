@@ -1,6 +1,3 @@
-from ting_file_management.file_management import txt_importer
-
-
 def exists_word(word, instance):
     ocorrencias = list()
     line_number = 0
